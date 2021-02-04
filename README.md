@@ -1,4 +1,4 @@
-# Maersk assignment
+# Shuffle & Sort
 ### (c) Janis Stipnieks
 
 ### Disclousure
